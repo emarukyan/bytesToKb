@@ -17,3 +17,4 @@ const byteTo = (limit) => {
  console.log(byteTo(1099511627776))
  console.log(byteTo(2099511627776 / 1024))
  console.log(byteTo(1024))
+ console.log(byteTo(0))
